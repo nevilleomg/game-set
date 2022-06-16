@@ -1,0 +1,89 @@
+3 синий пустой фасоль
+2 зеленый полосатый овал
+2 синий полосатый ромб
+1 синий полосатый ромб
+1 синий заполненный фасоль
+2 зеленый полосатый овал
+2 красный полосатый фасоль
+3 синий пустой овал
+2 красный заполненный фасоль
+1 красный пустой ромб
+3 синий полосатый фасоль
+2 красный заполненный ромб
+
+
+3beb 2bsr 1bsr
+3beb 2bsr 1bfb
+3beb 2bsr 3beo
+3beb 2bsr 3bsb
+3beb 1bsr 1bfb
+3beb 1bsr 3beo
+3beb 1bsr 3bsb
+3beb 1bfb 2rsb
+3beb 1bfb 3beo
+3beb 1bfb 2rfb
+3beb 1bfb 3bsb
+3beb 2rsb 2rfb
+3beb 2rsb 3bsb
+3beb 3beo 1rer
+3beb 3beo 3bsb
+3beb 2rfb 3bsb
+2gso 2bsr 1bsr
+2gso 2bsr 2gso
+2gso 2bsr 2rsb
+2gso 2bsr 2rfb
+2gso 2bsr 3bsb
+2gso 2bsr 2rfr
+2gso 1bsr 2gso
+2gso 1bsr 2rsb
+2gso 1bsr 3bsb
+2gso 2gso 2rsb
+2gso 2gso 3beo
+2gso 2gso 2rfb
+2gso 2gso 3bsb
+2gso 2gso 2rfr
+2gso 2rsb 2rfb
+2gso 2rsb 3bsb
+2gso 2rsb 2rfr
+2gso 2rfb 2rfr
+2bsr 1bsr 1bfb
+2bsr 1bsr 2gso
+2bsr 1bsr 2rsb
+2bsr 1bsr 3beo
+2bsr 1bsr 1rer
+2bsr 1bsr 3bsb
+2bsr 1bsr 2rfr
+2bsr 1bfb 3beo
+2bsr 1bfb 3bsb
+2bsr 2gso 2rsb
+2bsr 2gso 2rfb
+2bsr 2gso 3bsb
+2bsr 2gso 2rfr
+2bsr 2rsb 2rfb
+2bsr 2rsb 3bsb
+2bsr 2rsb 2rfr
+2bsr 3beo 3bsb
+2bsr 2rfb 2rfr
+2bsr 1rer 2rfr
+1bsr 1bfb 3beo
+1bsr 1bfb 1rer
+1bsr 1bfb 3bsb
+1bsr 2gso 2rsb
+1bsr 2gso 3bsb
+1bsr 2rsb 3bsb
+1bsr 3beo 3bsb
+1bsr 1rer 2rfr
+1bfb 2rsb 2rfb
+1bfb 2rsb 3bsb
+1bfb 3beo 3bsb
+1bfb 2rfb 3bsb
+1bfb 2rfb 2rfr
+2gso 2rsb 2rfb
+2gso 2rsb 3bsb
+2gso 2rsb 2rfr
+2gso 2rfb 2rfr
+2rsb 2rfb 1rer
+2rsb 2rfb 3bsb
+2rsb 2rfb 2rfr
+2rsb 1rer 2rfr
+2rfb 1rer 2rfr
