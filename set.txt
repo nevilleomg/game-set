@@ -1,126 +1,93 @@
-1 зеленый полосатый фасоль
-1 красный заполненный овал
-3 синий заполненный ромб
-2 синий полосатый овал
+1 зеленый полосатый ромб
+1 синий пустой ромб
+3 синий пустой фасоль
+2 синий пустой овал
+1 красный полосатый фасоль
+1 синий полосатый фасоль
+3 красный заполненный овал
+2 синий заполненный ромб
+3 красный пустой ромб
 1 красный пустой ромб
-2 красный полосатый фасоль
-1 синий заполненный ромб
-1 зеленый заполненный ромб
-1 зеленый пустой овал
-1 синий пустой овал
-1 синий заполненный овал
-1 зеленый заполненный фасоль
+1 красный заполненный овал
+3 зеленый пустой ромб
 
 
-1gsb 1rfo 1rer
-1gsb 1rfo 1bfr
-1gsb 1rfo 1gfr
-1gsb 1rfo 1geo
-1gsb 1rfo 1beo
-1gsb 1rfo 1bfo
-1gsb 1rfo 1gfb
-1gsb 2bso 2rsb
-1gsb 1rer 1bfr
-1gsb 1rer 1gfr
-1gsb 1rer 1geo
-1gsb 1rer 1beo
-1gsb 1rer 1bfo
-1gsb 1rer 1gfb
-1gsb 2rsb 1gfb
-1gsb 1bfr 1gfr
-1gsb 1bfr 1geo
-1gsb 1bfr 1beo
-1gsb 1bfr 1bfo
-1gsb 1bfr 1gfb
-1gsb 1gfr 1geo
-1gsb 1gfr 1beo
-1gsb 1gfr 1bfo
-1gsb 1gfr 1gfb
-1gsb 1geo 1beo
-1gsb 1geo 1bfo
-1gsb 1geo 1gfb
-1gsb 1beo 1bfo
-1gsb 1beo 1gfb
-1gsb 1bfo 1gfb
-1rfo 3bfr 1bfr
-1rfo 3bfr 1gfr
-1rfo 3bfr 1bfo
-1rfo 3bfr 1gfb
-1rfo 2bso 1geo
-1rfo 2bso 1beo
-1rfo 2bso 1bfo
-1rfo 1rer 2rsb
-1rfo 1rer 1bfr
-1rfo 1rer 1gfr
-1rfo 1rer 1geo
-1rfo 1rer 1beo
-1rfo 1rer 1bfo
-1rfo 1rer 1gfb
-1rfo 1bfr 1gfr
-1rfo 1bfr 1geo
-1rfo 1bfr 1beo
-1rfo 1bfr 1bfo
-1rfo 1bfr 1gfb
-1rfo 1gfr 1geo
-1rfo 1gfr 1beo
-1rfo 1gfr 1bfo
-1rfo 1gfr 1gfb
-1rfo 1geo 1beo
-1rfo 1geo 1bfo
-1rfo 1geo 1gfb
-1rfo 1beo 1bfo
-1rfo 1beo 1gfb
-1rfo 1bfo 1gfb
-3bfr 2bso 1bfr
-3bfr 2bso 1beo
-3bfr 2bso 1bfo
-3bfr 1rer 1bfr
-3bfr 1rer 1gfr
-3bfr 1bfr 1gfr
-3bfr 1bfr 1beo
-3bfr 1bfr 1bfo
-3bfr 1bfr 1gfb
-3bfr 1gfr 1bfo
-3bfr 1gfr 1gfb
-3bfr 1beo 1bfo
-3bfr 1bfo 1gfb
-2bso 1bfr 1beo
-2bso 1bfr 1bfo
-2bso 1geo 1beo
-2bso 1geo 1bfo
-2bso 1beo 1bfo
-1rer 1bfr 1gfr
-1rer 1bfr 1geo
-1rer 1bfr 1beo
-1rer 1bfr 1bfo
-1rer 1bfr 1gfb
-1rer 1gfr 1geo
-1rer 1gfr 1beo
-1rer 1gfr 1bfo
-1rer 1gfr 1gfb
-1rer 1geo 1beo
-1rer 1geo 1bfo
-1rer 1geo 1gfb
-1rer 1beo 1bfo
-1rer 1beo 1gfb
-1rer 1bfo 1gfb
-1bfr 1gfr 1geo
-1bfr 1gfr 1beo
-1bfr 1gfr 1bfo
-1bfr 1gfr 1gfb
-1bfr 1geo 1beo
-1bfr 1geo 1bfo
-1bfr 1geo 1gfb
-1bfr 1beo 1bfo
-1bfr 1beo 1gfb
-1bfr 1bfo 1gfb
-1gfr 1geo 1beo
-1gfr 1geo 1bfo
-1gfr 1geo 1gfb
-1gfr 1beo 1bfo
-1gfr 1beo 1gfb
-1gfr 1bfo 1gfb
-1geo 1beo 1bfo
-1geo 1beo 1gfb
-1geo 1bfo 1gfb
-1beo 1bfo 1gfb
+1gsr 1ber 1rsb
+1gsr 1ber 1bsb
+1gsr 1ber 2bfr
+1gsr 1ber 3rer
+1gsr 1ber 1rer
+1gsr 1ber 1rfo
+1gsr 1ber 3ger
+1gsr 1rsb 1bsb
+1gsr 1rsb 1rer
+1gsr 1rsb 1rfo
+1gsr 1bsb 1rer
+1gsr 1bsb 1rfo
+1gsr 2bfr 3rer
+1gsr 2bfr 1rer
+1gsr 2bfr 3ger
+1gsr 3rer 1rer
+1gsr 3rer 3ger
+1gsr 1rer 1rfo
+1gsr 1rer 3ger
+1ber 3beb 2beo
+1ber 3beb 1bsb
+1ber 3beb 2bfr
+1ber 3beb 3rer
+1ber 3beb 1rer
+1ber 3beb 3ger
+1ber 2beo 1bsb
+1ber 2beo 2bfr
+1ber 2beo 3rer
+1ber 2beo 1rer
+1ber 2beo 3ger
+1ber 1rsb 1bsb
+1ber 1rsb 1rer
+1ber 1rsb 1rfo
+1ber 1bsb 2bfr
+1ber 1bsb 1rer
+1ber 1bsb 1rfo
+1ber 2bfr 3rer
+1ber 2bfr 1rer
+1ber 2bfr 3ger
+1ber 3rer 1rer
+1ber 3rer 3ger
+1ber 1rer 1rfo
+1ber 1rer 3ger
+3beb 2beo 1bsb
+3beb 2beo 2bfr
+3beb 2beo 3rer
+3beb 2beo 1rer
+3beb 2beo 3ger
+3beb 1rsb 1bsb
+3beb 1bsb 2bfr
+3beb 3rfo 3rer
+3beb 3rfo 3ger
+3beb 3rer 1rer
+3beb 3rer 3ger
+3beb 1rer 3ger
+2beo 1bsb 2bfr
+2beo 3rfo 1rfo
+2beo 3rer 1rer
+2beo 3rer 3ger
+2beo 1rer 3ger
+1rsb 1bsb 1rer
+1rsb 1bsb 1rfo
+1rsb 3rfo 3rer
+1rsb 3rfo 1rer
+1rsb 3rfo 1rfo
+1rsb 3rer 1rer
+1rsb 3rer 1rfo
+1rsb 1rer 1rfo
+1bsb 1rer 1rfo
+3rfo 2bfr 1rfo
+3rfo 3rer 1rer
+3rfo 3rer 1rfo
+3rfo 3rer 3ger
+3rfo 1rer 1rfo
+2bfr 3rer 1rer
+2bfr 3rer 3ger
+2bfr 1rer 3ger
+3rer 1rer 1rfo
+3rer 1rer 3ger
